@@ -27,7 +27,7 @@ Clone the repo
 
 sh
 Copy code
-git clone https://github.com/your-username/to-do-list-app.git
+git clone https://github.com/sumitkandpal3/To-do-app.git
 Open the project directory
 
 sh
