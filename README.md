@@ -17,7 +17,7 @@ Add new tasks with ease<br>
 Mark tasks as completed<br>
 Delete tasks<br>
 Local storage to save tasks across sessions<br>
-Demo<br>
+Demo<br> 
 Check out the live demo <a href="https://sumitkandpal3.github.io/To-do-app/">here</a>.<br>
 
 Installation<br>
